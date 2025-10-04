@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.3.1
+scikit-learn==1.7.1
+nltk==3.9.1
+matplotlib==3.10.5
+seaborn==0.13.2   # latest stable seaborn as of 2025
+streamlit==1.48.1
+requests==2.32.3
+plotly==5.24.1
+streamlit-extras==0.4.0

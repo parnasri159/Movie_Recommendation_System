@@ -1,0 +1,15 @@
+venv/
+
+# Big data files
+tmdb_movies.csv
+processed_movies.pkl
+
+# Temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/
